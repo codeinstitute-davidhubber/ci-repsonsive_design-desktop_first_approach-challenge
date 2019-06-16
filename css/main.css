@@ -1,0 +1,22 @@
+html,
+body
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+main
+{
+    height: 100%;
+}
+
+section
+{
+    height: 100%;
+
+    background-color: #e4e4e4;
+    background-image: linear-gradient(45deg, tomato 25%, transparent 25%, transparent 75%, tomato 75%, tomato),
+    linear-gradient(-45deg, tomato 25%, transparent 25%, transparent 75%, tomato 75%, tomato);
+    background-size: 40px 40px;
+}
