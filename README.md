@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-repsonsive_design-desktop_first_approach-challenge/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-repsonsive_design-desktop_first_approach-challenge/'**
 ***
 title: **'Code Institiute - Repsonsive Design - Desktop First Approach - Challenge'**
 
